@@ -1,5 +1,8 @@
 # House Price Prediction Model (Machine Learning)
 
+
+<img src="https://github.com/baynazoglu/ML_houseprice_prediction/blob/main/house%20price%20prediction.jpg" alt="Image" width="600" height="420">
+
 ## Project Summary
 
 Business Problem:
